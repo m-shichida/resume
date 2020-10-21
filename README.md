@@ -1,5 +1,9 @@
 # Shichida Masatsugu resume
 
+## Data
+
+- [GitHub Pages](https://m-shichida.github.io/resume/)
+
 ## Features
 
 ### 💅 Lint text
