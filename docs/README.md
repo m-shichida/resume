@@ -6,7 +6,7 @@
 |---|---|
 |氏名|七田 将嗣|
 |生年月日|1995 年 09 月 13 日|
-|Qiita|[@shicchi7913]（https://qiita.com/shicchi7913）|
+|Qiita|[@shicchi7913](https://qiita.com/shicchi7913)|
 |個人ブログ|https://shicchi-blog.com|
 |Lapras|https://lapras.com/public/DC47NLA|
 
